@@ -1,0 +1,4 @@
+#Wed Sep 26 15:05:10 EDT 2018
+base.0=/Users/rchenn035/EarthquakeMonitor/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
